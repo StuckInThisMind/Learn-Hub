@@ -1,4 +1,4 @@
-# Study-Hub
+# Learn Hub - Youtube Education enchaced by AI
 
 This is for GDSC Solution Challenge.
 
